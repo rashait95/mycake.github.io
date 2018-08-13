@@ -78,8 +78,6 @@ ul ul a {
     }
 }
 
-
-
 .main{
 
    margin:0px;
@@ -91,17 +89,16 @@ ul ul a {
 
 
 }
-.nav-link{
-
-  font-family: 'Lobster', cursive;
-	
-}
 .btn-secondary{
 
 	background-color: tomato;
 	border:#EAB543;
 }
 
+.nav-link{
+
+  font-family: 'Lobster', cursive;
+}
 
 
 .heading{
