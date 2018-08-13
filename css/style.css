@@ -78,11 +78,7 @@ ul ul a {
     }
 }
 
-.nav-link{
 
-  font-family: 'Lobster', cursive;
-	
-}
 
 .main{
 
@@ -94,6 +90,11 @@ ul ul a {
    background-color: #fab1a0;
 
 
+}
+.nav-link{
+
+  font-family: 'Lobster', cursive;
+	
 }
 .btn-secondary{
 
