@@ -122,7 +122,7 @@ ul ul a {
 .carousel-inner{
 	height: 600px;
 	margin-top:15px;
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 
 }
 
